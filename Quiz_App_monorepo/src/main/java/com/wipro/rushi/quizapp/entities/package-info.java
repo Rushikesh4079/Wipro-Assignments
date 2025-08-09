@@ -1,1 +1,0 @@
-package com.wipro.rushi.quizapp.entities;
