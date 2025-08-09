@@ -1,0 +1,13 @@
+package com.wipro.rushi.quizapp;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class QuizAppMonorepoApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(QuizAppMonorepoApplication.class, args);
+	}
+
+}
